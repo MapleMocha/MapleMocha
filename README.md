@@ -6,3 +6,4 @@
 - 我很希望有人能在学习上引导我向正确的方向，谢谢！❤️
 - 可以叫我mm诶
 - 通常，可以通过 nsagqcia@gmail.com 邮箱联系我
+![C++](https://img.shields.io/badge/C%2B%2B-17-FBA88C?logo=cplusplus&logoColor=white)
