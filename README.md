@@ -7,4 +7,4 @@
 - 可以叫我mm诶
 - 通常，可以通过 nsagqcia@gmail.com 邮箱联系我
 
-![C++](https://img.shields.io/badge/C%2B%2BFBA88C?logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-FBA88C?logo=cplusplus&logoColor=white)
